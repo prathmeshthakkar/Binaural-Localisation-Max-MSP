@@ -4,3 +4,6 @@ Resources for conducting a binaural localisation test using pre-recorded HRTFs. 
 Users are free to use the contents as they please so long as they comply with the terms of the attached license. 
 
 The Max patch found in this repository uses a third party 'multiconvolve~'object, in its original form, found in the GitHub repository titled 'HISSTools_Impulse_Response_Toolbox' and is copyright protected. Copyright (c) 2012 Alex Harker and Pierre Alexandre Tremblay
+
+# Created by  
+Prathmesh Thakkar 
